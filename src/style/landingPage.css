@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+/* NAVIGATION BAR */
+.navbar {
+    transition: background-color 0.3s ease;
+    background-color: transparent;
+    font-family: "EB Garamond", serif;
+    font-weight: 900;
+}
+.navbar.scrolled {
+background-color: #31ab4e;
+}
+.navbar .nav-link {
+color: black;
+}
+.navbar.scrolled .nav-link {
+color: black;
+}
+
+
+
+
+/* INTRO */
+.intro {
+  min-height: 100vh;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #a8d5ba;
+}
+.title {
+  font-family: 'Lobster Two', static;
+  font-size:200%;
+  font-weight: 400;
+}
+
+
+
+/* ABOUT */
+.bg {
+  min-height: 100vh;
+  background: #23a43b;;   
+}
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 0;
+}
+.mangan {
+  position: flex;
+  justify-content:center;
+  align-items:center;
+}
+.toko{
+  background-image: url(../assets/background/toko.jpg);
+}
+.image-container {
+  flex: 1;
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+}
+.text-container {
+  flex: 1;
+  padding: 20px;
+  background-color: #146b42;
+  color: #ffff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Lobster Two', static;
+}
+
+
+
+/* PRODUK */
+.pilihan {
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  font-family: "EB Garamond", serif;
+}
+.button {
+  position: absolute;
+  bottom: 10px; ;
+  left: 10px;
+  background-color: #31ab4e ;
+  color: #ffffff;
+}
+
+
+
+/* FOOTER */
+.footer {
+    background-color: #31ab4e;
+    padding: 20px;
+}
+.map-container {
+  margin-bottom: 20px;
+}
+
+.map {
+  border: 0;
+}
+
+.text-box {
+  padding: 20px;
+  background-color: #146b42;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.text-box h4 {
+  margin-bottom: 15px;
+}
+
+.text-box p {
+  margin-bottom: 10px;
+}
+.foot {
+  font-family: 'Lobster Two', static;
+  font-weight: 400;
+}
+.contact{
+  font-family: "EB Garamond", serif;
+  font-weight: 900;
+}
+
+
+
+/* SCROLL BUTTON */
+.scrollButton {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #055819;
+    color: #ebebeb;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    transition: opacity 0.3s ease;
+}
