@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Soto_Lamongan/static/css/main.0ec15091.css",
+    "main.js": "/Soto_Lamongan/static/js/main.67a13307.js",
+    "static/js/453.7b788fb2.chunk.js": "/Soto_Lamongan/static/js/453.7b788fb2.chunk.js",
+    "static/media/tahu_tempe.png": "/Soto_Lamongan/static/media/tahu_tempe.82300d539af3b73ed6e1.png",
+    "static/media/nata.png": "/Soto_Lamongan/static/media/nata.42b15649232dfd114480.png",
+    "static/media/semur.png": "/Soto_Lamongan/static/media/semur.cfcb737093492ad3358b.png",
+    "static/media/oolong.png": "/Soto_Lamongan/static/media/oolong.6aa063afc6ba3f11c6d3.png",
+    "static/media/uduk.png": "/Soto_Lamongan/static/media/uduk.5196bb51c1455ffd7592.png",
+    "static/media/teh_telang.png": "/Soto_Lamongan/static/media/teh_telang.65a7a481d78017fa4669.png",
+    "static/media/soto.png": "/Soto_Lamongan/static/media/soto.8d4cd440e85dd4cb0249.png",
+    "static/media/toko.jpg": "/Soto_Lamongan/static/media/toko.3a9d1b872e28f1f59481.jpg",
+    "static/media/stiker.png": "/Soto_Lamongan/static/media/stiker.e596dec51085f11a953b.png",
+    "index.html": "/Soto_Lamongan/index.html",
+    "main.0ec15091.css.map": "/Soto_Lamongan/static/css/main.0ec15091.css.map",
+    "main.67a13307.js.map": "/Soto_Lamongan/static/js/main.67a13307.js.map",
+    "453.7b788fb2.chunk.js.map": "/Soto_Lamongan/static/js/453.7b788fb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec15091.css",
+    "static/js/main.67a13307.js"
+  ]
+}
