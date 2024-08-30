@@ -13,7 +13,7 @@ const Intro = () => {
               <Col md={6}>
               <br></br><br></br>
               <div className='text-container text-end'>
-                <p className='title'>Tempat di mana cita rasa autentik dan kehangatan tradisi bersatu dalam setiap sajian. Dari makanan yang khas, setiap hidangan kami dibuat dengan cinta dan dedikasi untuk memberikan pengalaman kuliner yang tak terlupakan dengan tangan.
+                <p className='title'>Tempat di mana cita rasa autentik dan kehangatan tradisi bersatu dalam setiap sajian. Dari makanan yang khas, setiap hidangan kami dibuat dengan cinta dan dedikasi untuk memberikan pengalaman kuliner yang tak terlupakan.
                 </p>
                   </div>
               </Col>
